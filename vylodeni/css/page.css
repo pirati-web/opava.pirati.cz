@@ -1,0 +1,58 @@
+.item p {
+    margin-bottom: 1em;
+}
+
+.item ul {
+    margin-top: -.8em;
+    margin-bottom: 1em;
+    padding-left: 1rem;
+}
+
+
+.item h3 {
+    padding-top: .2em;
+    margin-bottom: .4em;
+    font-family: bebas_neue_regularregular;
+    src: url(bebasneue_regular-webfont.eot);
+    src: url(bebasneue_regular-webfont.eot?) format("embedded-opentype"), url(bebasneue_regular-webfont.woff2) format("woff2"), url(bebasneue_regular-webfont.woff) format("woff"), url(bebasneue_regular-webfont.ttf) format("truetype"), url(bebasneue_regular-webfont.svg) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;	
+}
+
+.item a {
+    text-decoration: underline;
+}
+
+.item li a {
+    font-family: bebas_neue_regularregular;
+    src: url(../fonts/bebasneue_regular-webfont.eot);
+    src: url(../fonts/bebasneue_regular-webfont.eot?) format("embedded-opentype"), url(../fonts/bebasneue_regular-webfont.woff2) format("woff2"), url(../fonts/bebasneue_regular-webfont.woff) format("woff"), url(../fonts/bebasneue_regular-webfont.ttf) format("truetype"), url(../fonts/bebasneue_regular-webfont.svg) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    /*font-size: 26px;*/
+}
+
+.title {
+    font-family: bebas_neue_regularregular;
+    src: url(../fonts/bebasneue_regular-webfont.eot);
+    src: url(../fonts/bebasneue_regular-webfont.eot?) format("embedded-opentype"), url(../fonts/bebasneue_regular-webfont.woff2) format("woff2"), url(../fonts/bebasneue_regular-webfont.woff) format("woff"), url(../fonts/bebasneue_regular-webfont.ttf) format("truetype"), url(../fonts/bebasneue_regular-webfont.svg) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+}
+
+.thumbnail:hover {
+    border: 0;
+    box-shadow: None;
+    margin-bottom: 0px;
+    filter: none; /* IE6-9 */
+    -webkit-filter: none; /* Google Chrome, Safari 6+ & Opera 15+ */
+    filter:none; /* Microsoft Edge and Firefox 35+ */
+}
+
+.thumbnail {
+    margin: 0 auto;
+    display: block;
+}
