@@ -194,6 +194,7 @@ Pokud byste tuto šablonu chtěli využít pro tvorbu webu svého místního sdr
 ### Titulní obrázek
 
 Přidejte široký webový a úzký mobilní obrázek a nastavte parametry v `_config.yml`
+1335 x 338, 273 x 421 
 
 ### Kontaky na PiCe
 
