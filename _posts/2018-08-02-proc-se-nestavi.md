@@ -1,11 +1,13 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Proč se v Opavě nestaví'
-date: 2018-08-02T15:21:23.824Z
+date: 2018-07-30T15:21:23.824Z
 author: Karel Záleský
-image: /assets/img/posts/proc-se-nestavi.jpg
-tags: 'opava architektura'
+image: posts/proc-se-nestavi.jpg
+tags:
+  - opava
+  - architektura
 ---
 Opava je pěkné a udržované město. Umíme se vzorně starat o náměstí, parky, památky a stavby, které nám zde vybudovali v dávných dobách naši předkové. Přesto politické vedení města dlouhodobě nezvládá jednu zásadní oblast. Vůbec neumí novostavby. Jak je to možné?
 

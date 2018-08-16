@@ -3,8 +3,13 @@ uid: pavel.korizek
 name:     Pavel Kořízek  	# běžně používáné jméno
 fullname: Ing. Pavel Kořízek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
-
+category:
+  - clenove
+  - pms
+  - pks 
+  - kontaktni_osoba  
+ordpms: 1
+ordclenove: 1
 img: people/pavel-korizek.jpg   # 165 x 220
 description: předseda krajského sdružení Moravskoslezského kraje       	# kratký popis, max 160 znaků
 mail:
@@ -16,7 +21,7 @@ profiles:
   twitter: 		  
   flickr: 
 
-ordpks: 1
+ordpak: 2
 ---
 
 Vystudoval obor Informatika a výpočetní technika na Vysokém Učení Technickém v Brně (2005). V současné době pracuje jako IT specialista. Je ženatý a má 3 děti. Ve svém volném čase se věnuje rodině. 

@@ -1,12 +1,18 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Ivan Bartoš vyrazil na druhý konec republiky zahájit kampaň v Ostravě, Opavě i Karviné'
 date: 2018-05-20T15:21:23.824Z
 author: Zuzana Klusová
-authorId: zuzana.klusova
-image: /assets/img/posts/Opava_s Harmonikou.jpg
+image: posts/Opava_s Harmonikou.jpg
 tags: 'bartoš kampaň karviná ostrava opava'
+tags:
+  - bartoš
+  - kampaň
+  - karviná
+  - kampaň
+  - ostrava
+  - opava
 ---
 
 Že je mimořádně multifunkční muž dokázal Ivan Bartoš během víkendové tour Moravskoslezským krajem. Zatímco ostatní politici promlouvají k občanům na náměstích, severomoravští Piráti zahájili komunální kampaň originálně. Ani šestihodinová cesta autem z Prahy po nechvalně známé D1 předsedu Pirátů neodradila od návštěvy východního cípu republiky, který rozhodně nepatří k pirátským baštám.  Zatím.
