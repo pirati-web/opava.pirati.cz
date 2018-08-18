@@ -17,9 +17,10 @@ PIRÁTI & OPAVANÉ nejsou jen známé tváře stávajících zastupitelů Hany B
 
 > „ Velmi si vážím odhodlání, ale i osobní odvahy všech našich kandidátů, kteří se rozhodli poskytnout odborné znalosti, profesní zkušenosti a volný čas pro práci ve prospěch našeho města. Ať to jsou kolegové Piráti, jejich příznivci a sympatizanti, nebo lidé, kteří se s námi rozhodli spolupracovat, protože vnímají realitu dnešní Opavy bez růžových brýlí. Není nám lhostejné aktuální dění a budoucnost našeho města. Neztotožňujeme se s arogantním chováním vůči občanům, s klientelistickými praktikami, či s chaotickými a netransparentními postupy. Chceme otevřeně komunikovat, informovat a aktivně zapojovat občany našeho města“ sdělila lídryně a kandidátka na primátorku Hana Brňáková. „O problémech se nebojíme otevřeně hovořit, ani je jen slepě nekritizujeme. V tomto volebním období jsme přicházeli s konstruktivními návrhy a podporovali jsme smysluplná rozhodnutí. Takto hodláme pokračovat i v budoucím období nejen se stávajícími kolegy, ale i s novými posilami našeho týmu. Společně sdílíme představy, jak by město mělo fungovat, aby se v něm dobře žilo. V programu rozvíjíme myšlenky, které budou městu a spoluobčanům prospěšné. Přejeme si, aby naše loď ve volebním výsledku získala dostatečně silný vítr do plachet, abychom mohli naše vize ve prospěch města proměnit v realitu,“ dodala Brňáková.
 
-
+[Kandidátka](https://opava.pirati.cz/komunalni-volby/)
 
 Kontakt: 
+
 Hana Brňáková, místopředsedkyně MS a lídryně kandidátky PIRÁTI & OPAVANÉ
 
 > Email: hana.brnakova@pirati.cz, Tel. 721 741 919

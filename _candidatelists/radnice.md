@@ -11,6 +11,7 @@ leader:
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: pavel.korizek
+    age: 46
     profession: Programátor
     description: 
     party: Piráti
