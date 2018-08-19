@@ -1,9 +1,7 @@
 ---
 uid: pavel.korizek
-name:     Pavel Kořízek  	# běžně používáné jméno
-fullname: Ing. Pavel Kořízek  	# jméno s tituly etc.
+name: Ing. Pavel Kořízek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-category:
   - clenove
   - pms
   - pks 
@@ -24,10 +22,10 @@ profiles:
 ordpak: 2
 ---
 
-Vystudoval obor Informatika a výpočetní technika na Vysokém Učení Technickém v Brně (2005). V současné době pracuje jako IT specialista. Je ženatý a má 3 děti. Ve svém volném čase se věnuje rodině. 
+Pavel Kořízek (* 2.ledna 1972) se narodil v Opavě. Registrovaným příznivcem České pirátské strany je od založení v roce 2009, členem od roku 2013 a v současné chvíli je předsedou krajského sdružení Moravskoslezského kraje.
 
-Mezi jeho koníčky patří vaření a střelba. 
+Vystudoval obor Informatika a výpočetní technika na Vysokém Učení Technickém v Brně. Po studiích pracoval 17 let ve státním podniku Česká pošta jako programátor a architekt informačních systémů. Nyní působí jako vývojář v oblasti nemocničních informačních systémů.
 
-Je členem kontrolního výboru zastupitelstva města Opavy a Hradce nad Moravicí.
+Od roku 2014 působí v Opavě kontrolním výboru Zastupitelstva města a informační komisi rady města. V roce 2017 se stal členem Komise Zdravého města a Místní Agendy 21. V současnosti je členem kontrolního výboru Zastupitelstva města Hradec nad Moravicí.
 
-
+Je ženatý a má 3 děti. Ve svém volném čase se věnuje rodině. Mezi jeho koníčky patří vaření a střelba. Je členem organizace Mensa České republiky.

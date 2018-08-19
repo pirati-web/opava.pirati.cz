@@ -15,25 +15,25 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: Programátor
     description: 
     party: Piráti
-tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb
-  - name: Jan	Štěrba
+  - uid: jan.sterba
     age: 55
     profession: Dispečer
     party: Piráti
-  - name: Mgr. Pavel Gazda
+  - uid: pavel.gazda
     age: 56
     profession: Programátor
     party: Piráti
-  - name: Ing. Kateřina Skřivánková
+  - uid: katerina.skrivankova
     age: 47
     profession: Bankéř
     party: bez politické příslušnosti
-  - name: Andreas Drastík
+  - uid: andreas.drastik
     age: 44
     profession: Podnikatel - Dřevovýroba
     party: bez politické příslušnosti
+tail: # zbytek kandidatky
+      # jedinná povinná položka je name zbytek můžete vynechat
+      # věk se uvádí k poslednímu dni voleb	
   - name: Ing. Jan Kunze
     age: 42
     profession: Dramaturg, Kurátor
