@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: 'Komu vadí OKO'
 date: 2018-07-31T15:21:23.824Z
-author: Jan Kunze
+author: Piráti Opava
 image: posts/oko.jpg
 tags:
   - opava
