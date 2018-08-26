@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 4 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: hana.brnakova
   age: 46
