@@ -13,11 +13,17 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás co Piráti dělají? Ozvěte se koordinátorovi nebo přijďte k nám
-na schůzi kterou pořádáme každý druhý čtvrtek v měsíci v Slezském Pirátském Centru, Krnovská 12/9, Opava.
+<h2 class="t-h4-alt"> Zajímá vás co Piráti dělají? </h2>
 
+Ozvěte se našim kontaktním osobám, koordinátorovi nebo přijďte k nám na schůzi, kterou pořádáme každý druhý čtvrtek v měsíci v Slezském Pirátském Centru, Krnovská 12/9, Opava.
 
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+<h2 class="t-h4-alt"> Chcete nás podpořit a nevíte jak?</h2>
+
+Staňte se dobrovolníkem – kontaktujte [krajského koordinátora dobrovolníků](https://moravskoslezsky.pirati.cz/lide/jakub-dedek/)
+
+Staňte se registrovaným příznivcem - formulář s návodem najdete [tady](https://nalodeni.pirati.cz/)
+
+Finanční dary můžete posílat [zde](https://dary.pirati.cz).
 Pokud chcete darovat přimo našemu místnímu sdružení použijte specifický symbol 110405 pro převod (jinak do poznámky text "dar MS Opavské Slezsko").
 
 
