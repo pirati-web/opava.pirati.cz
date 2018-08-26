@@ -19,7 +19,7 @@ profiles:
   twitter: 		  
   flickr: 
 
-ordpak: 2
+ordpak: 1
 ---
 
 Pavel Kořízek (* 2.ledna 1972) se narodil v Opavě. Registrovaným příznivcem České pirátské strany je od založení v roce 2009, členem od roku 2013 a v současné chvíli je předsedou krajského sdružení Moravskoslezského kraje.

@@ -3,13 +3,14 @@ uid: jan.sterba
 name:     Jan Štěrba      		# běžně používáné jméno
 category:       # kategorie: rp, praha, vary, hradec, jmk, senat
     - opa
+    - - kontaktni_osoba
 ordopa: 1
 img: people/jan-sterba.jpg           # 165 x 220
 description: člen Pirátů místního sdružení Opavské Slezsko
 mail:
 - jan.sterba@pirati.cz
 mob: +420 602 533 993
-
+ordpak: 3
 ---
 Jan Štěrba se narodil v roce 1962 v Opavě v rodině lékaře jako třetí dítě a druhé z dvojčat.
 Vystudoval střední zemědělskotechnickou školu v Opavě.Po absolvování základní vojenské služby začal pracovat v dopravě, nejprve jako závozník, poté jako řidič a nakonec jako dispečer. Po roce 1989 založil se svými kolegy spediční firmu a dvacet let podnikal v mezinárodní automobilové dopravě a spedici. Od roku 2010 až doposud pracuje jako dispečer v Městském dopravním podniku Opava.
