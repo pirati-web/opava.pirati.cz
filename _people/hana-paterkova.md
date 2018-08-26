@@ -1,0 +1,15 @@
+---
+uid: hana.paterkova
+name:     Bc. Hana Paterková     		# běžně používáné jméno
+category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- priz
+img: people/hana-paterkova.jpg           # 165 x 220
+description: nezávislý kandidát ve volbách do Zastupitelstva města Opavy # kratký popis, max 160 znaků
+
+ordpriz: 8
+---
+Hana Paterková (* nar. 5.8.1953 v Opavě) je profesí učitelkou mateřské školy. Vystudovala střední pedagogickou školu v Krnově, poté v roce 1984-1986 speciální pedagogiku na PFUP v Olomouci a v letech 2003 – 2005 bakalářský studijní program Speciální pedagogika na PFOU v Ostravě. Od roku 1977 pracovala v MŠ Eliška, kde se od roku 1983 věnují dětem se speciálními vzdělávacími potřebami. Od roku 1990 do roku 2012 působila v této škole jako ředitelka. Podílela se na založení občanského sdružení Klubu přátel tělesně postižených dětí Opava, který vznikl v roce 1995 při Mateřské škole Eliška, se sídlem v této příspěvkové organizaci, dnes známým pod názvem Klub přátel zdravotně postižených Eliška, zkráceně „Klub Eliška“. Cílem klubu je vytváření optimálních podmínek zabezpečování komplexní péče o děti a mládež se  zdravotním postižením v rámci prevence sociální adaptace, vedoucích k získávání jejich zdravého sebevědomí a k plnohodnotnému uplatnění ve společnosti. Mezi hlavní činnosti klubu patří vzájemné setkávání, výměna názorů, odborné poradenství, sdílení vlastních zkušeností, volnočasové aktivity, organizace víkendových pobytů, organizace letních tuzemských i zahraničních ozdravných pobytů, které optimalizují fyzickou a psychickou kondici dětí a mládeže s integračním zaměřením a zajišťování osobní asistence při těchto pobytech.
+Hana Paterková je matkou dvou dětí, dcery a syna. Dcera (42) vystudovala Střední průmyslovou školu stavební v Opavě a 10 let v tomto oboru pracovala. Nyní pracuje jako asistentka pedagoga a je přihlášena k dálkovému studiu střední pedagogické školy. Syn (35) vystudoval Střední pedagogickou školu v Krnově a magisterské studium Aplikované tělesné výchovy na FTV UP v Olomouci a pracuje jako učitel na ZŠ Havlíčkova. Obě děti už od studentských let aktivně pomáhají v Klubu Eliška jako osobní asistenti. 
+Hana Paterková se od školních let až do 34 let aktivně věnovala basketbalu, s jehož aktéry a aktérkami ji dodnes pojí krásné přátelství. Ráda jezdí na kole a miluje plavání. V mládí se zapojila do krátce obnoveného Junáka, jehož činnost však záhy přerušila okupace v roce 1968 a doba normalizace. Tímto směrem ji vedl otec, který byl tělem i duší sokol a v roce 1994 byl starostou Obce sokolské v Opavě a po té pracoval i v Sokolské župě Moravskoslezské v Ostravě. 
+Dlouhodobě ve spolupráci s rodiči tělesně postižených dětí a mladých lidí poukazuje na absenci komplexního řešení péče o tělesně postiženou mládež po ukončení některé z forem vzdělávání. To znamená, že v Opavě chybí sociální služba – denní stacionář či centrum denních služeb, která by byla plně přizpůsobena potřebám imobilních osob, tudíž bezbariérová a kapacitně dostačující. Tuto dlouhodobě neřešenou situaci je zapotřebí konečně změnit. 
+

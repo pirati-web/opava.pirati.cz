@@ -31,45 +31,45 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 44
     profession: Podnikatel - Dřevovýroba
     party: bez politické příslušnosti
-tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb	
-  - name: Ing. Jan Kunze
+  - uid: jan.kunze
     age: 42
     profession: Dramaturg, Kurátor
     party: bez politické příslušnosti
-  - name: Pavel	Beran
+  - uid: pavel.beran
     age: 49
     profession: Technik
     party: bez politické příslušnosti
-  - name: Ing. Vladan Šafarčík
+  - uid: vladan.safarcik
     age: 38
     profession: Ředitel rodinné firmy - rostlinolékař
-    party: bez politické příslušnosti 
-  - name: Bc. Gabriela Lacková
+    party: bez politické příslušnosti
+  - uid: gabriela.lackova
     age: 46
     profession: Ředitelka Mateřské školky Hradec nad Moravicí
     party: bez politické příslušnosti
-  - name: Petr Pavlíček
+  - uid: petr.pavlicek
     age: 65
     profession: Zástupce ředitele Mendelova gymnazia
     party: bez politické příslušnosti
-  - name: Bc. Hana Paterková
+  - uid: hana.paterkova
     age: 64
-    profession: Speciální pedagog
+    profession: Speciální pedegog
     party: bez politické příslušnosti
-  - name: Ing. Karel Záleský
+  - uid: karel.zalesky
     age: 45
     profession: Projektant
     party: bez politické příslušnosti
-  - name: Mgr. Marian Babic
+  - uid: marian.babic
     age: 35
     profession: Advokát
     party: bez politické příslušnosti
-  - name: Ing. Martin Girášek	
+  - uid: martin.girasek
     age: 49
     profession: Manažer
     party: bez politické příslušnosti
+tail: # zbytek kandidatky
+      # jedinná povinná položka je name zbytek můžete vynechat
+      # věk se uvádí k poslednímu dni voleb	
   - name: Bc. Štěpán Lamich
     age: 30
     profession: Vývojový technolog 
