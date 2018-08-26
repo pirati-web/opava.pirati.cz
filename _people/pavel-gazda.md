@@ -1,11 +1,15 @@
 ---
 uid: pavel.gazda
 name:     Mgr. Pavel Gazda      		# běžně používáné jméno
-category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:                   	# kategorie: rp, praha, vary, hradec, jmk, senat
+    - opa                	
+ordopa: 2
 img: people/pavel-gazda.jpg           # 165 x 220
 description: člen Pirátů místního sdružení Opavské Slezsko
 mail:
 - pavel.gazda@pirati.cz
+
+
 ---
 Mgr. Pavel Gazda (* nar. 21. 1. 1962 v Opavě) je programátorem. Vystudoval Přírodovědeckou fakultu UP v Olomouci, obor matematická analýza. Je ženatý a se svou ženou má dva syny. Společně žijí v Městské části Malé Hoštice. Je svérázný a pevný ve svých názorech. Rád diskutuje a na základě ověřitelných faktů dokáže svůj názor přehodnotit. Na druhou stranu pokud je přesvědčen o pravdivosti svého názoru, dokáže ho bránit proti komukoliv. Jeho profese a práce je mu koníčkem, má rád nejen počítače, ale i další techniku. Je vášnivým šachistou.
 
