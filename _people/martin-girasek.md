@@ -1,0 +1,29 @@
+---
+uid: martin.girasek
+name:     Ing. Martin Girášek, MCI   		# běžně používáné jméno
+category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+- priz
+img: people/martin-girasek.jpg           # 165 x 220
+description: nezávislý kandidát ve volbách do Zastupitelstva města Opavy # kratký popis, max 160 znaků
+
+ordpriz: 11
+---
+Martin Girášek (nar. 18. 11. 1968 v Opavě) je provozně – technickým náměstkem ve společnosti Technické služby Opava s.r.o., které vykonávají správu a údržbu majetku Statutárního města Opavy a realizují komunální služby nejen pro město Opava, ale také pro externí zákazníky.
+Je absolventem Střední průmyslové školy stavební v Opavě, Vysoké školy podnikání a práva v Ostravě a certifikovaného studia Master of Creativity and Innovation při DTO CZ s.r.o. Ostrava.
+Po absolvování Střední průmyslové školy stavební v Opavě 1987 působil tři roky jako samostatný stavební projektant ve společnosti Agrostav Opava. Poté nastoupil v roce 1990 do Technických služeb Opava, kde postupně získával zkušenosti na pozicích mistr, vedoucí provozovny komunikací a poté na pozici provozně – technického náměstka. Na své pozici je zodpovědný za plynulý chod organizace a zajišťování služeb zákazníkům. Řídí a zabezpečuje operativní plánování, investiční činnost, technický rozvoj, technologii a organizaci práce všech provozních záležitostí společnosti, včetně vedení technické dokumentace. Kontroluje operativně průběh jednotlivých činností společnosti, koordinuje a zajišťuje jejich průběh.
+V náplni své práce má komunikaci s veřejností, kdy zpracovává a vyřizuje podněty, připomínky či stížnosti, přičemž poté zajišťuje nápravu ke zkvalitnění poskytovaných služeb. Za společnost se pravidelně účastní diskuzního fóra „Otevřená radnice“, kde odpovídá na otázky občanů a následně přijímá opatření k zajištění oprávněných připomínek. 
+V letech 2008 – 2014 studoval Vysokou školu podnikání a práva v Ostravě. Studium ukončil v roce 2014 státní závěrečnou zkouškou a ziskem titulu inženýr ve studijním programu Ekonomika a management obor Podnikání. 
+V roce 2014 – 2015 absolvoval studium Master of Creativity and Innovation, zaměřené na rozvoj a zdokonalování managementu v technických a netechnických oborech, přičemž hlavním posláním studia byla příprava specialistů pro oblast inovací a rozvoj inovačního potenciálu. Studium bylo zakončené certifikační zkouškou. 
+V letech 2016 – 2018 absolvoval Baťovu manažerskou školu, konanou pod záštitou Fakulty managementu a ekonomiky Univerzity Tomáše Bati ve Zlíně.
+Je autorem diplomové práce „Společenská odpovědnost organizací – návrh implementace do společnosti Technické služby Opava s.r.o.“, díky které principy společenské odpovědnosti do společnosti zavedl, společnost je přijala za své a poté získala významná ocenění na krajské i národní úrovni. Společnost se tak v letech 2015 a 2017 stala Vítězem Národní ceny za společenskou odpovědnost v programu Podnikáme odpovědně a v letech 2016 a 2017 se stala vítězem krajské Ceny hejtmana moravskoslezského kraje za společenskou odpovědnost. 
+Koncept společenské odpovědnosti organizací a udržitelného rozvoje má značně široký záběr a zahrnuje velké množství aktivit. Zjednodušeně se dá říct, že organizace se nesoustřeďuje jen na zisk, ale zejména na sociální, environmentální a společenské aspekty své činnosti. Společenská odpovědnost je jakási vyšší forma slušného chování, slušného chování k občanům města, k zaměstnancům, k zákazníkům, k přírodě a k okolí ve které společnost působí. 
+
+Po vítězství v Národní ceně uvedl pro tisk: „Zisk tak významného ocenění mě samozřejmě velice potěšil, moc si toho vážím a věřím, že to bude pro nás impuls do další práce. Jsme si v naší společnosti vědomi, že účast v těchto soutěžích je jen cesta, nikoli cíl. Cílem je kvalitně, včas, efektivně a trvale udržitelně konat službu veřejnosti, tedy jak našemu zřizovateli kterým je Statutární město Opava, ale zejména pak občanům v našem krásném městě žijícím, či město navštěvujícím. Získané ocenění je pro nás zavazující a jakási zpětná vazba, že jsme snad na správné cestě“.
+Na téma „Sloužíme veřejnosti, aneb i komunální služby se dají vykonávat společensky odpovědně“ přednášel v letech 2016 a 2017 na konferencích O společenské odpovědnosti a trvale udržitelném rozvoji v Žilině, Ostravě, Opavě a Zlíně.
+Publikuje své články jak v regionálních tiskovinách, tak jako rozhovory v celostátních časopisech jako např. "Komunální technika", "Odpady", "Odpadové hospodářství", "Moderní obec", nebo v odborném československém časopise „Kvalita a společenská zodpovednosť“.
+Vystupuje jak v regionálním vysílání televize Polar, tak v celostátní televizi ČT.
+V roce 2016 obdržel cenu Sdružení komunálních služeb České republiky "Za osobní přínos o rozvoj komunálních služeb v České republice", v roce 2018 pak byl za svou práci Sdružením komunálních služeb ČR oceněn zvláštní cenou „Za osobní přínos o šíření myšlenky Společensky odpovědného chování organizací v rámci komunálních služeb v České republice“.
+Martin Girášek má z prvního manželství syna Lukáše (29) toho času programátora IT, žije s partnerkou Petrou a jejími dětmi Valentýnou (13) a Markem (26).
+Mezi jeho záliby patří sport, především pak cyklistika, které se věnuje aktivně. Moc rád cestuje a poznává nepoznané. Zejména při cestách do zahraničí se u něj projevuje „profesionální deformace“ a tak se stává, že prolézá nejeden odpadkový koš, kontejner, čučí do uliční vpusti, či lampy veřejného osvětlení. Při loňské cykloexpedici se svými kamarády s cyklistického teamu na Mallorce dokonce osobně na vlastní kůži prozkoumal kvalitu asfaltového povrchu zdejší silnice…V době volna rád relaxuje s rodinou na zahradě.
+Při své práci je mu vzorem český podnikatel, jenž dosáhl světového věhlasu a to nejen úspěchem své firmy na trhu zboží, ale také lidským přístupem. Je to Tomáš Baťa, který kdysi řekl „Konejme jen tu práci, která slouží veřejnosti". To je krédo Martina Giráška.
+
