@@ -15,7 +15,7 @@ profiles:
   facebook:				
   twitter:
   linkedin: 
-ordpak: 1
+ordpak: 4
 ---
 
 Jakub Dedek (* 21. dubna 1992) je členem Pirátské strany od začátku roku 2017. Jakub pochází z Ostravy, kde taky momentálně i působí.

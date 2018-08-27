@@ -3,6 +3,7 @@ uid: hana.brnakova
 name:     Bc. Hana Brňáková      		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
+- kontaktni_osoba  
 img: people/hana-brnakova.jpg           # 165 x 220
 description: zastupitelka města Opavy a místopředsedkyně místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
 mail:
@@ -13,7 +14,8 @@ profiles:
   facebook:	https://www.facebook.com/hanka.brnakova			
   twitter:
   linkedin: 
-ordzast: 1  
+ordzast: 1 
+ordpak: 2 
 ---
 
 Hana Brňáková (* nar. 20. 2. 1972 v Opavě) je ředitelkou a statutární zástupkyní nestátní neziskové organizace ANIMA VIVA z. s., která poskytuje registrované sociální služby, Odborné sociální poradenství a Sociální rehabilitaci pro osoby se zdravotním postižením s důrazem na osoby s chronickým duševním onemocněním, a související službu - zaměstnávání osob se zdravotním postižením na chráněných pracovních místech více na www.animaviva.cz. V ANIMA VIVA z. s. začala pracovat v roce 2007 jako koordinátorka EU projektu (OP RLZ) zaměřeného na sociální a pracovní začlenění osob s chronickým duševním onemocněním, na vedoucí pozici v organizaci působí od roku 2009. Má původně technické vzdělání na SPŠ oděvní v Prostějově, obor Konstrukce a modelování oděvů (1986- 1990). Původnímu oboru se věnovala do roku 2007. V roce 2010 úspěšně zakončila státní zkouškou studium bakalářského studijního programu Veřejná správa a regionální politika, obor sociální politika- sociální práce, na Slezské univerzitě v Opavě. 
