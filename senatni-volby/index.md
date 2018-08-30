@@ -8,6 +8,12 @@ textbox:
     title: Petr Pavlíček
     text: Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsumvvvv vLorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
     
+linksbox:
+   - text: Seznam
+     link: https://www.seznam.cz/
+   - text: Centrum
+     link: https://www.seznam.cz/
+    
 
 ---
  <div class="row">
@@ -70,8 +76,25 @@ textbox:
   <div class="medium-12 large-4 columns">
     {% include right-bar/rbar.html %}
     {% include right-bar/bar_textbox.html%}
-  
-  </div>
+       
+            <div class="o-section-block">
+                <ul class="c-widget-accordion c-widget-accordion--dark" data-accordion="" data-allow-all-closed="true">
+                  <li class="c-widget-accordion-item is-active" data-accordion-item="">
+                        <a href="#" class="c-widget-accordion-link">
+                         <span class="c-widget-accordion__title">Zajímavé odkazy</span>
+                        </a>
+                        <div class="c-widget-accordion-content" data-tab-content="">
+                            <ul>
+                             {% for i in page.linksbox %}
+                                  <li> <a href="{{i.link}}">{{i.text}}</a></li>
+                             {% endfor %}
+                           </ul>
+                     </div>
+                    </li>
+                </ul>
+            </div>
+       
+     </div>
   {% endunless %}
 </div>
 
