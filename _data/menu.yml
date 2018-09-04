@@ -22,6 +22,17 @@ main:
   - link: /senatni-volby/
     name: Senátní volby
     match: senatni-volby
+    submenu:
+      - link: /senatni-volby/
+        name: Kandidát
+        match: senatni-volby
+      - link: /senatni-volby/senatni-obvod/
+        name: Senátní Obvod
+        match: senatni-obvod
+      - link: /senatni-volby/dopisy/
+        name: Dopisy
+        match: dopisy
+     
   - link: /kontakt/
     name: Kontakt
     match: kontakt
