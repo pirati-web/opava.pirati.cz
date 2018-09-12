@@ -27,12 +27,15 @@ main:
         name: Kandidát
         match: senatni-volby
       - link: /senatni-volby/senatni-obvod/
-        name: Senátní Obvod
+        name: Senátní obvod
         match: senatni-obvod
       - link: /senatni-volby/dopisy/
-        name: Dopisy
+        name: Ohlasy
         match: dopisy
-     
+      - link: /senatni-volby/vite-ze/
+        name: Víte ,že ...
+        match: vite-ze
+
   - link: /kontakt/
     name: Kontakt
     match: kontakt

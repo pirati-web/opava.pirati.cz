@@ -5,15 +5,17 @@ title: Kandidát Petr Pavlíček
 rbar: 
    -foto
 img: people/petr-pavlicek.jpg
+id: 
 textbox:
     title: Co možná nevite
-    text: Petr Pavlíček je vášnivým kuchařem a některé jeho recepty můžete nalézt v sérii knih Jak šmakuje Moravskoslezsko [<a href="https://jaksmakuje.msk.cz/?q=kucharky">odkaz</a>]<br> Ve svém volném čase rád vymyšlí a vytváří hlavolamy. Většinu si budete moct vyzkoušet v nově vznikající .... [<a href="">odkaz</a>]  
+    text: Petr Pavlíček je vášnivým kuchařem a některé jeho recepty můžete nalézt v sérii knih Jak šmakuje Moravskoslezsko [<a href="https://jaksmakuje.msk.cz/?q=kucharky">odkaz</a>]<br> Ve svém volném čase rád vymyšlí a vytváří hlavolamy. Většinu si budete moct vyzkoušet v nově vznikajícím BrainFitness [<a href="">odkaz</a>]  
     
     
 linksbox:
    - text: Rozhovor v českém rozhlasu po obdržení ceny Učené společnosti a Nadace fondu Neuron. 
-     link: https://ostrava.rozhlas.cz/setkani-s-reditelem-mendelova-gymnazia-v-opave-petrem-pavlickem-7227290
-  
+     link: https://ostrava.rozhlas.cz/setkani-s-reditelem-mendelova-gymnazia-v-opave-petrem-pavlickem-7227290O
+   - text: Rozhovor pro Opavský a hlučínský deník.
+     link: https://opavsky.denik.cz/zpravy_region/rozhovor-petr-pavlicek18022017.html
 ---
  <div class="row">
   <div class="medium-12  columns">
@@ -35,11 +37,11 @@ linksbox:
                  <div class="">
                     <div class="c-content-block c-emphasized-text">
                          <blockquote>
-                              <p>Kandidaturu za Piráty neberu jako výtah k moci, ale jako možnost uplatnit své  životní a odborné zkušenosti ze své dlouhodobé pedagogické praxe. Umím si živě představit dopad zákonů na chod konkrétní organizace, či život obyčejných lidí. Jsem přesvědčen, že politikům by mělo jít o stejnou věc – dělat vše ve prospěch a pro spokojenost občanů. Tento cíl by měl být nad stranami. Jsem zastáncem kritického myšlení a podporuji liberární a demokratické postoje.</p>
+                              <h3 class="t-h5">Kandidaturu za Piráty neberu jako výtah k moci, ale jako možnost uplatnit své  životní a odborné zkušenosti ze své dlouhodobé pedagogické praxe. Umím si živě představit dopad zákonů na chod konkrétní organizace, či život obyčejných lidí. Jsem přesvědčen, že politikům by mělo jít o stejnou věc – dělat vše ve prospěch a pro spokojenost občanů. Tento cíl by měl být nad stranami. Jsem zastáncem kritického myšlení a podporuji liberální a demokratické postoje.</h3>
                          </blockquote>
 
                          <blockquote>
-                            <p>Petr Pavlíček kandidát na senátora</p>
+                            <h3 class="t-h5">Petr Pavlíček kandidát na senátora</h3>
                           </blockquote>
                     </div>
                  </div>
@@ -62,42 +64,43 @@ linksbox:
            <div class="u-cf">
              
                 <div itemprop="description" class="c-content-block c-emphasized-text">
+                <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpiratiopava%2Fvideos%2F289550055192178%2F&show_text=0&width=560" width="740" height="416" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
                     <h1 class="t-h2-alt">Vážení voliči, využijte možnost jít 5. a 6. října 2018 k volbám do Senátu České republiky a volit dle Vaší svobodné vůle. </h1>
                     <h2 class="t-h4-super">Proč je senát pro naši demokracii důležitý? </h2>
                         <ul>
-                            <li class="strong">Jako horní komora Parlamentu České republiky projednává a schvaluje či zamítá návrhy zákonů (vyjma státního rozpočtu a závěrečného účtu), které mu postoupila Poslanecká sněmovna (PS).</li>
-                            <li class="strong">Senát může poslanecké sněmovně podávat vlastní návrhy zákonů.</li>
-                            <li class="strong">V případě rozpuštění PS přijímá v naléhavých záležitostech na místo zákonzákonná opatření.</li>
-                            <li class="strong">Senát dává souhlas k ratifikaci mezinárodních smluv a spolu s PS vyhlašuje válečný stav, vyslovuje souhlas s pobytem cizích vojsk na území ČR či s vysláním ozbrojených sil mimo české území.</li>
-                            <li class="strong">Ústavní a volební zákony nelze přijmout bez výslovného souhlasu Senátu.</li>
-                              <li class="strong">Předseda Senátu vyhlašuje volbu prezidenta republiky. Pouze Senát může se souhlasem PS podat žalobu proti prezidentovi k Ústavnímu soudu.</li>
+                            <li class="t-h4-sub">Jako horní komora Parlamentu České republiky projednává a schvaluje či zamítá návrhy zákonů (vyjma státního rozpočtu a závěrečného účtu), které mu postoupila Poslanecká sněmovna (PS).</li>
+                            <li class="t-h4-sub">Senát může poslanecké sněmovně podávat vlastní návrhy zákonů.</li>
+                            <li class="t-h4-sub">V případě rozpuštění PS přijímá v naléhavých záležitostech na místo zákonů zákonná opatření.</li>
+                            <li class="t-h4-sub">Senát dává souhlas k ratifikaci mezinárodních smluv a spolu s PS vyhlašuje válečný stav, vyslovuje souhlas s pobytem cizích vojsk na území ČR či s vysláním ozbrojených sil mimo české území.</li>
+                            <li class="t-h4-sub">Ústavní a volební zákony nelze přijmout bez výslovného souhlasu Senátu.</li>
+                              <li class="t-h4-sub">Předseda Senátu vyhlašuje volbu prezidenta republiky. Pouze Senát může se souhlasem PS podat žalobu proti prezidentovi k Ústavnímu soudu.</li>
                         </ul>
                     <h2 class="t-h4-super">Proč volit Českou pirátskou stranu?</h2>
                     <h2 class="t-h6-super">Pirátské dvanáctero</h2>
                         <ul>
-                            <li class="strong">Pirátství znamená informační otevřenost. </li>
-                            <li class="strong">Jasný záměr: Stát nesmí technologie zneužívat, ale využívat </li>
-                            <li class="strong">Lidé mají právo rozhodovat se na základě informací </li>
-                            <li class="strong">Informační otevřenost snižuje náklady, zvyšuje efektivitu a usnadňuje lidem život </li>
-                            <li class="strong">Otevíráme vládu a zveřejňujeme informace </li>
-                            <li class="strong">Internet je naše moře </li>
-                            <li class="strong">Internet nezná hranice </li>
-                            <li class="strong">Výzkum a zdraví místo monopolu na léky </li>
-                            <li class="strong">Veřejnost má přirozené právo kopírovat a sdílet informace </li>
-                            <li class="strong">„Ochrana autorských práv“ je termín propagandy zábavního průmyslu </li>
-                            <li class="strong">Velkému Bratrovi nasadíme pásku přes oko – nebo raději přes obě oči </li>
-                            <li class="strong">Každý Pirát je vysílač </li>
+                            <li class="t-h4-sub">Pirátství znamená informační otevřenost. </li>
+                            <li class="t-h4-sub">Jasný záměr: Stát nesmí technologie zneužívat, ale využívat. </li>
+                            <li class="t-h4-sub">Lidé mají právo rozhodovat se na základě informací. </li>
+                            <li class="t-h4-sub">Informační otevřenost snižuje náklady, zvyšuje efektivitu a usnadňuje lidem život. </li>
+                            <li class="t-h4-sub">Otevíráme vládu a zveřejňujeme informace. </li>
+                            <li class="t-h4-sub">Internet je naše moře. </li>
+                            <li class="t-h4-sub">Internet nezná hranice. </li>
+                            <li class="t-h4-sub">Výzkum a zdraví místo monopolu na léky. </li>
+                            <li class="t-h4-sub">Veřejnost má přirozené právo kopírovat a sdílet informace. </li>
+                            <li class="t-h4-sub">„Ochrana autorských práv“ je termín propagandy zábavního průmyslu. </li>
+                            <li class="t-h4-sub">Velkému Bratrovi nasadíme pásku přes oko – nebo raději přes obě oči. </li>
+                            <li class="t-h4-sub">Každý Pirát je vysílač. </li>
                         </ul>
 
                     <h2 class="t-h4-super">Proč volit právě mne? </h2>
                         <ul>
-                           <li class="strong">Budu úzce spolupracovat s poslanci České pirátské strany. </li>
-                           <li class="strong">Neslibuji nesplnitelné. </li>
-                           <li class="strong">Chci bojovat proti přemíře regulací, podporovat pozitivní aktivity zastupitelstev, firem, škol a obyvatel v senátním obvodu 68. </li>
-                           <li class="strong">Budu mediátorem v problémových jevech. </li>
-                           <li class="strong">Podpořím vše, co zlepší prostředí kolem nás a zabrání změně kvality života nejen vlivem klimatických změn. </li>
-                           <li class="strong">Při tvorbě zákonů využiji zkušenosti ze své dlouholeté ředitelské práce.</li>
-                           <li class="strong">Budu usilovatt o omezení zbytečné administrativy ve státních institucích, ve školství podporovat kreativitu při výchově a vzdělávání.</li>
+                           <li class="t-h4-sub">Budu úzce spolupracovat s poslanci České pirátské strany. </li>
+                           <li class="t-h4-sub">Neslibuji nesplnitelné. </li>
+                           <li class="t-h4-sub">Chci bojovat proti přemíře regulací, podporovat pozitivní aktivity zastupitelstev, firem, škol a obyvatel v senátním obvodu 68. </li>
+                           <li class="t-h4-sub">Budu mediátorem v problémových jevech. </li>
+                           <li class="t-h4-sub">Podpořím vše, co zlepší prostředí kolem nás a zabrání změně kvality života nejen vlivem klimatických změn. </li>
+                           <li class="t-h4-sub">Při tvorbě zákonů využiji zkušenosti ze své dlouholeté ředitelské práce.</li>
+                           <li class="t-h4-sub">Budu usilovat o omezení zbytečné administrativy ve státních institucích, ve školství podporovat kreativitu při výchově a vzdělávání.</li>
 
                         </ul>
                     <h1 class="t-h2-alt">Vážení voliči, využijte možnost jít 5. a 6. října 2018 k volbám do Senátu České republiky a volit dle Vaší svobodné vůle. </h1>
@@ -112,8 +115,7 @@ linksbox:
   <div class="medium-12 large-4 columns">
     {% include right-bar/rbar.html %}
      <h1 class="t-h4-sub text-center">Petr Pavlíček </h1>
-      <h1 class="t-h5-alt text-center">Zástupce ředitele Mendelova gymnázia</h1>
-      <p><br></p>
+            <p><br></p>
     {% include right-bar/bar_textbox.html%}
 
        <div class="o-section-block">
