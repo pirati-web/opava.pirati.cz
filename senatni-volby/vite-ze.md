@@ -15,7 +15,7 @@ title: Víte, že ...
                             <li class="t-h4-sub">... role Senátu je oddělena od výkonné moci a přesto se někteří senátoři stavějí do pozice dohazovačů dotací? </li>
                             <li class="t-h4-sub">... Senát neschvaluje závěrečný účet republiky a ani rozpočet na nový rok?</li>
                             <li class="t-h4-sub">... Senát nemůže zřizovat  vyšetřovací komise ani interpelovat členy vlády?</li>
-                            <li class="t-h4-sub">... senátoři od roku ... navrhli .. zákonů? Z toho pouze ... bylo schváleno Poslaneckou sněmovnou.</li>
+                            <li class="t-h4-sub">... senátoři od roku 2013 do konce roku 2017 navrhli 23 zákonů? Z toho pouze 8 bylo schváleno Poslaneckou sněmovnou.</li>
                               <li class="t-h4-sub">... kandidát na senátora může naslibovat modré z nebe?</li>
                                <li class="t-h4-sub">... Římský císař Caligula prohlísil, že kůň by zvládl senátorskou práci stejně dobře jako senátor?</li>
                                <li class="t-h4-sub">... v říjnu můžete jít k volbám a spolurozhodovat o složení Senátu?</li>

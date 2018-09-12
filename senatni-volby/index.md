@@ -8,7 +8,7 @@ img: people/petr-pavlicek.jpg
 id: 
 textbox:
     title: Co možná nevite
-    text: Petr Pavlíček je vášnivým kuchařem a některé jeho recepty můžete nalézt v sérii knih Jak šmakuje Moravskoslezsko [<a href="https://jaksmakuje.msk.cz/?q=kucharky">odkaz</a>]<br> Ve svém volném čase rád vymyšlí a vytváří hlavolamy. Většinu si budete moct vyzkoušet v nově vznikajícím BrainFitness [<a href="">odkaz</a>]  
+    text: Petr Pavlíček je vášnivým kuchařem a některé jeho recepty můžete nalézt v sérii knih Jak šmakuje Moravskoslezsko [<a href="https://jaksmakuje.msk.cz/?q=kucharky">odkaz</a>]<br> Ve svém volném čase rád vymyšlí a vytváří hlavolamy. Většinu si budete moct vyzkoušet v nově vznikajícím BrainFitness <!--[<a href="">odkaz</a>] -->
     
     
 linksbox:
