@@ -54,7 +54,12 @@ soupeři byli prostě lepší.</h4>
 <p><br></p>
 <p><br></p>
 <p><br></p>
-
+<h2 class="t-h4-super">Lenka Mynářová, Member of The Board NAFIGATE Corporation, a.s. </h2>
+          <h4 class="t-h4-sub">Petr Pavlíček je především člověk s velkým Č. Ze všeho lidského bych chtěla vyzvednou charakter, empatii a pomoc lidem kolem sebe. je vše jen  ne lhostejný. Dále je to ředitel školy s velkým Ř. Smekám před tím, kolik talentů jeho škola vychovala. A v neposlední řadě je to fyzik s velkým F. Nikdo nespočítáme, kolik dětí pro fyziku nadchl. Jsem šťastná, že Opava má takového kandidáta na senátora.  </h4>
+        
+<p><br></p>
+<p><br></p>
+<p><br></p>
 
 
 
