@@ -8,14 +8,18 @@ img: people/petr-pavlicek.jpg
 id: 
 textbox:
     title: Co možná nevite
-    text: Petr Pavlíček je vášnivým kuchařem a některé jeho recepty můžete nalézt v sérii knih Jak šmakuje Moravskoslezsko [<a href="https://jaksmakuje.msk.cz/?q=kucharky">odkaz</a>]<br> Ve svém volném čase rád vymyšlí a vytváří hlavolamy. Většinu si budete moct vyzkoušet v nově vznikajícím BrainFitness <!--[<a href="">odkaz</a>] -->
+    text: Petr Pavlíček je vášnivým kuchařem a některé jeho recepty můžete nalézt v sérii knih Jak šmakuje Moravskoslezsko.[<a href="https://jaksmakuje.msk.cz/?q=kucharky">odkaz</a>]<br> Ve svém volném čase rád vymyšlí a vytváří hlavolamy. Většinu si budete moct vyzkoušet v nově vznikajícím BrainFitness <!--[<a href="">odkaz</a>] -->.<br> Osobne úspěšných pokusů o zápis do České knihy rekordů. Konaných na Mendelově gymnaziu.
     
     
 linksbox:
    - text: Rozhovor v českém rozhlasu po obdržení ceny Učené společnosti a Nadace fondu Neuron. 
      link: https://ostrava.rozhlas.cz/setkani-s-reditelem-mendelova-gymnazia-v-opave-petrem-pavlickem-7227290O
+   - text: Rozhovor pro Hospodářské noviny po obdržení ceny Učené společnosti a Nadace fondu Neuron.
+     link: https://archiv.ihned.cz/c1-66137820-cenu-za-to-ze-vede-studenty-k-vede-dostal-reditel-opavskeho-gymnazia-jeho-absolvent-pracuje-v-cern?utm_source=mediafed&utm_medium=rss&utm_campaign=mediafed
    - text: Rozhovor pro Opavský a hlučínský deník.
      link: https://opavsky.denik.cz/zpravy_region/rozhovor-petr-pavlicek18022017.html
+   - text: Předvolbní vizitky pro českýČeský rozhlas
+     link: https://www.irozhlas.cz/volby/senatni-volby-2018-kandidatu-volebni-vizitky-senat_1809100700_ako
 ---
  <div class="row">
   <div class="medium-12  columns">
@@ -37,7 +41,8 @@ linksbox:
                  <div class="">
                     <div class="c-content-block c-emphasized-text">
                          <blockquote>
-                              <h3 class="t-h5">Kandidaturu za Piráty neberu jako výtah k moci, ale jako možnost uplatnit své  životní a odborné zkušenosti ze své dlouhodobé pedagogické praxe. Umím si živě představit dopad zákonů na chod konkrétní organizace, či život obyčejných lidí. Jsem přesvědčen, že politikům by mělo jít o stejnou věc – dělat vše ve prospěch a pro spokojenost občanů. Tento cíl by měl být nad stranami. Jsem zastáncem kritického myšlení a podporuji liberální a demokratické postoje.</h3>
+                              <h3 class="t-h5">Vážení spoluobčané,</h3>
+ <h3 class="t-h5">rozhodl jsem se kandidovat do Senátu České republiky, neboť si uvědomuji, jak důležitou roli tato státní instituce hraje zejména v současné, politicky velmi složité době, kdy se v naší zemi čím dál častěji hovoří o ohrožení demokratických principů, omezování svobody slova a nezávislosti tisku, kdy běžné občany ničí bezbřehá byrokracie a nepřehlednost zákonů. Pokud si mne zvolíte jako svého kandidáta do senátu, mohu Vám slíbit, že využiji svých dlouholetých zkušeností z manažerské práce a to především z jednání s úřady, firmami a dalšími institucemi, abych formou konkrétní komunikace s těmito subjekty zjistil slabiny ve vyhláškách a nařízeních a spolu se svými kolegy z České pirátské strany ulevil Vám, občanům, zaměstnancům, podnikatelům od zbytečné administrativní zátěže. Dále bych chtěl v rámci plnění programu naší strany hájit svobodu slova a právo každého jedince na pravdivé a nezkreslené informace a to především podporou svobodné nezávislé žurnalistiky. Toto jsou mé priority. Je jen na Vašem rozhodnutí, zda budu moci své plány a závazky vůči Vám, občanům, plnit. Děkuji předem za každý hlas a jsem s Vámi.</h3>
                          </blockquote>
 
                          <blockquote>

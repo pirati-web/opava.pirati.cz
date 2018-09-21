@@ -60,6 +60,12 @@ soupeři byli prostě lepší.</h4>
 <p><br></p>
 <p><br></p>
 <p><br></p>
+<h2 class="t-h4-super">Ing. Jiří Folta, vedoucí programu Exit v Akci  </h2>
+          <h4 class="t-h4-sub">S Petrem Pavlíčkem jsem se setkal v roli ředitele školy. Od studentů jsem vnímal, že mají svého ředitele rádi a váží si ho pro to, že jim věří a povzbuzuje je, aby převzali zodpovědnost za svůj život a aktivně se zapojili do života. Tam, kde by jiní konstatovali "To nepůjde", nacházel Petr Pavlíček nečekaná řešení a fungoval na škole jako katalyzátor aktivního dění. Byl ochoten jít tu "druhou míli" navíc - dělal věci, které byly nad rámec toho, co v jeho roli ředitele bylo nutné. Věřím, že do politiky přinese čerstvý vítr do plachet.  </h4>
+        
+<p><br></p>
+<p><br></p>
+<p><br></p>
 
 
 
