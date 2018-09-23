@@ -1,12 +1,15 @@
 ---
-layout: blog
+layout: post
 category: CLANKY
 title: 'Vysoká hra (fotbalová) ?'
-date: 2018-09-23T15:21:23.824Z
+date: 2018-09-22T15:21:23.824Z
 author: Andreas Drastík, Karel Záleský, Jan Štěrba, Pavel Gazda
 authorId: 
-image: /assets/img/posts/fotbal.jpg
-tags: 'fotbal SFC opava'
+image: posts/fotbal.jpg
+tags: 
+ -fotbal
+ -SFC
+ -opava
 ---
 Vážení spoluobčané, v posledních dnech a týdnech se po internetu šíří nepravdivé informace, které mají cíleně poškodit naši volební stranu Piráti a Opavané. Jednou z nich jsou nepravdivá tvrzení, kde je nám někým podsouváno, že údajně blokujeme vstup nového investora do SFC. Důrazně se ohrazujeme vůči podobným lžím, které jsou vytvářeny zcela účelově ve snaze odvést pozornost od skutečných viníků současného stavu v klubu. Nikdy jsme žádná jednání ohledně vstupu nového investora neblokovali. Jsme s našimi 2 zástupci v současném zastupitelstvu v postavení, kdy nemáme přístup k důležitým informacím, co se v klubu děje. Odpovědi na řadu otázek nenajdete u nás, ale výhradně u současného vedení SFC a zástupců města v dozorčí radě. Jen oni vědí, jaký je skutečný stav věcí a kam se SFC ubírá. Z našeho uskupení nikdo neví, s kým dotyční pánové jednají. I my sledujeme s nadějí jejich přes rok trvající opakovaná ujišťování, že vedou  jednání s údajnými investory, kteří jsou připraveni klub převzít a finančně zajistit. Jediným hmatatelným výsledkem je však skutečnost, že tahle hra na naději připomíná už jen špatný román. Poslední události v klubu to jen potvrzují. 
 
