@@ -8,6 +8,7 @@ image: posts/bazen.jpg
 tags:
   - bazén
   - na slovíčko Piráte
+  - Opava
 ---
 
 Zdá se, že opavské vodní hladiny zůstanou ještě chvíli klidné. Do včerejška současné vedení města netrpělivě očekávalo, zda-li nedorazí alespoň nějaká nabídka do opakované soutěže na zhotovitele nového bazénu, ale nic. Žádná obálka, žádné otevírání. Oprášený neaktualizovaný projekt, nafouknutý rozpočet, technické parametry, nad kterými zůstával rozum stát a amatérismus, který celý tento záměr provázel, nemusíme ani připomínat...
