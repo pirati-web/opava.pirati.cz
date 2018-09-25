@@ -166,4 +166,5 @@ assets:
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/files
     - _sass

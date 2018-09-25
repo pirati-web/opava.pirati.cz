@@ -35,6 +35,9 @@ main:
       - link: /senatni-volby/vite-ze/
         name: Víte ,že ...
         match: vite-ze
+      - link: /senatni-volby/ke-stazeni/
+        name: Ke stažení
+        match: ke-stazeni
 
   - link: /kontakt/
     name: Kontakt
