@@ -54,7 +54,7 @@ soupeři byli prostě lepší.</h4>
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<h2 class="t-h4-super">Lenka Mynářová, Member of The Board NAFIGATE Corporation, a.s. </h2>
+<h2 class="t-h4-super">Lenka Mynářová, member of The Board NAFIGATE Corporation, a.s. </h2>
           <h4 class="t-h4-sub">Petr Pavlíček je především člověk s velkým Č. Ze všeho lidského bych chtěla vyzvednou charakter, empatii a pomoc lidem kolem sebe. je vše jen  ne lhostejný. Dále je to ředitel školy s velkým Ř. Smekám před tím, kolik talentů jeho škola vychovala. A v neposlední řadě je to fyzik s velkým F. Nikdo nespočítáme, kolik dětí pro fyziku nadchl. Jsem šťastná, že Opava má takového kandidáta na senátora.  </h4>
         
 <p><br></p>
@@ -67,6 +67,26 @@ soupeři byli prostě lepší.</h4>
 <p><br></p>
 <p><br></p>
 
+<h2 class="t-h4-super">Jiří Šretr, amaterský astronom  </h2>
+          <h4 class="t-h4-sub">Žijeme ve vesmíru, který je tvořen dech beroucími objety. Galaxie, hvězdokupy, mlhoviny jenž jsou porodnicemi nových hvězd, jsou objekty, bez jejichž existence by nevznikl život. Život podporují, rozvíjí a pečují o něj. 
+          Zvláštní místa ve vesmíru tvoří černé díry. Nejsou vidět, jejich existence je možná pouze na úkor svého okolí, ze kterého postupně vysávají veškerou hmotu. Vzdálený pohled na černou díru může být fascinující, hmota dříve než zanikne v černé díře, vysokými rychlostmi obíhá okolo centra a nádherně září.
+           Samotná hmota si možná myslí, že díky urychlení a schopnosti zářit, se její smysl naplňuje, stává se zajímavou a uhrančivou. Hmota zachycená černou dírou je šťastná do té doby, než zjistí, že každým okamžikem se blíží její zánik. Jakmile hmota zjistí, že jediný smysl její existence spočívá v krmení černé díry, je již pozdě. Překročila horizont událostí a zanikne. Její zánik posiluje černou díru a rozšiřuje její moc nad širokým okolím. Hmota rychle zazářila a díky nenasytnosti černé díry také rychle zanikla.
+           Zdá se, že černé díry musí zvítězit, že neexistuje žádná síla, která by zabránila černé díře pohltit vše ve svém okolí a posléze pohltit celý vesmír.
+           Opak je pravdou, zjistilo se černé díry lokálně dokážou dominovat, ale že vesmír ve vyšší škále tvoří daleko mocnější vlákna. Z jednotlivých vláken se utkává síť, jejíž uzly dokáží postupně přitahovat okolní hmotu a tu formovat v životadárné objekty. Uzly vesmírné sítě hmotu nepohlcují, ale postupně formují. Samotná hmota u uzlech sítě utváří prostor pro život.
+           Osobnost Petra Pavlíčka bych přirovnal k uzlu vesmírné sítě, na rozdíl od korporátních psychopatů, kteří se chovají stejně jak černé díry, Petr Pavlíček svou osobností a prací, zcela přirozeně zformoval síť lidí jejíž činnost, myšlenky a činorodost mají pozitivní vliv na život nejen v Opavě, ale i v prostoru daleko přesahující samotný region.
+           Věřím a doufám, že Opava v osobě Petra Pavlíčka získá senátora, jehož přirozená síla a osobnost dokáže ovlivnit věci veřejné tak, že život, štěstí a pozitivní myšlenky zvítězí v jeho osobě, nad hrabivostí a nenasytností černých děr, které bohužel začínají vyplňovat náš veřejný prostor.  </h4>
+        
+<p><br></p>
+<p><br></p>
+<p><br></p>
+
+
+<h2 class="t-h4-super">Petr Kotrla, organizátor akce Branné dny v Opavě</h2>
+          <h4 class="t-h4-sub">JIž tři roky má v Opavě tradici unikátní projekt Branné dny v Opavě, jehož podporovatelem a takříkajíc otcem je Petr Pavlíček. Díky tomuto projektu čtyři dny v roce ožívají opavské Dukelské kasárny a několik set účastníků zde vyzkouší spoustu branných aktivit jako je střelba, hod granátem, překážková dráha, první pomoc či práce s mapou. Na projektu spolupracuje také PČr, HZS Opava a KVV Ostrava, které Petr Pavlíček požádal o spolupráci. Doufejme že tento již tradiční projekt bude mít v Opavě dlouhé trvání a dočkáme se ještě spousty úspěšných ročníků.  </h4>
+        
+<p><br></p>
+<p><br></p>
+<p><br></p>
 
 
      </article>
