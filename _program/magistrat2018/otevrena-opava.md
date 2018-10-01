@@ -1,9 +1,11 @@
 ---
 title: Opava otevřená občanům     # nadpis, text pro odkazy z jiných stranek
+shortTitle: Otevřená Opava
 uid: otevrena-opava       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 garant: pavel.korizek              # uid z profilu daného garanta
+img: program/otevrena-radnice.svg
 perex: >
   Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město musí být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí, omezí plýtvání financemi a klientelistické praktiky.
 order: 1         # pořadí zobrazení v seznamu

@@ -1,9 +1,11 @@
 ---
 title: Bezpečnost obyvatel     # nadpis, text pro odkazy z jiných stranek
+shortTitle: Bezpečnost
 uid: bezpecnost-obyvatel       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 garant: pavel.gazda              # uid z profilu daného garanta
+img: program/obrana.svg
 perex: >
   Chceme ve městě Městskou policii jako stabilní odborný, odpovědný, disciplinovaný a aktivní tým schopný zajistit pro občany a návštěvníky Opavy bezpečnost a pořádek.
 order: 5         # pořadí zobrazení v seznamu

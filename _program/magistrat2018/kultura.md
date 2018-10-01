@@ -1,10 +1,12 @@
 ---
 title: Kultura      # nadpis, text pro odkazy z jiných stranek
+shortTitle: Kultura
 uid: kultura       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 
 garant: jan.kunze              # uid z profilu daného garanta
+img: program/kultura.svg
 perex: >
  Kultura, stejně jako sport přináší mnoho výhod, které obchodní domy nemohou nabídnout, a měla by být občanům blízko.
 order: 9         # pořadí zobrazení v seznamu

@@ -1,9 +1,11 @@
 ---
 title: Zapojení a podpora aktivity občanů      # nadpis, text pro odkazy z jiných stranek
+shortTitle: Aktivní občan
 uid: zapojeni-obcanu       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 garant: hana.brnakova              # uid z profilu daného garanta
+img: program/finance.svg
 perex: >
  Finanční i nefinanční podpora z rozpočtu města poskytnutá na veřejně prospěšné aktivity a činnosti občanů, spolků a dalších subjektů, by měla být zveřejňována.
 order: 2         # pořadí zobrazení v seznamu

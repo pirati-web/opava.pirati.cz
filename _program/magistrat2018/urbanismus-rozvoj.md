@@ -1,10 +1,12 @@
 ---
 title: Urbanismus a rozvoj města      # nadpis, text pro odkazy z jiných stranek
+shortTitle: Rozvoj
 uid: urbanismus-rozvoj       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 
 garant: karel.zalesky              # uid z profilu daného garanta
+img: program/mistni-rozvoj.svg
 perex: >
  Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde je vše tzv. „na dosah ruky“. 
 order: 4         # pořadí zobrazení v seznamu

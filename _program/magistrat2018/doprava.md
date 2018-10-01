@@ -1,9 +1,11 @@
 ---
 title: Doprava     # nadpis, text pro odkazy z jiných stranek
+shortTitle: Doprava
 uid: doprava       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 garant: pavel.beran              # uid z profilu daného garanta
+img: program/doprava.svg
 perex: >
   Chceme vyvážený podíl jednotlivých způsobů dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné.
 order: 6         # pořadí zobrazení v seznamu

@@ -1,9 +1,11 @@
 ---
 title: Výchova a vzdělávání   # nadpis, text pro odkazy z jiných stranek
+shortTitle: Vzdělávání
 uid: vychova-vzdelavani       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 garant: gabriela.lackova             # uid z profilu daného garanta
+img: program/vzdelani.svg
 perex: >
   Jsme přesvědčeni, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 order: 8         # pořadí zobrazení v seznamu

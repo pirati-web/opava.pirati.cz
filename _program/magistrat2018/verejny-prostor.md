@@ -1,10 +1,12 @@
 ---
 title: Veřejný prostor a zeleň      # nadpis, text pro odkazy z jiných stranek
+shortTitle: Veřejný prostor
 uid: verejny-prostor       # vnitřni pojmenování, stejně pojmenovat i soubor
-campaignCategoryUid: praha2018       # neměnit - nazev programu
+campaignCategoryUid: magistrat2018       # neměnit - nazev programu
 campaignGroupUid: volby-2018         # neměnit - nazev podprogramu
 
 garant: vladan.safarcik              # uid z profilu daného garanta
+img: program/zivotni-prostredi.svg
 perex: >
  Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnujeme pozornost, jakou si zaslouží. 
 order: 7         # pořadí zobrazení v seznamu
