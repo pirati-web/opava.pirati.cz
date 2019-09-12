@@ -1,6 +1,6 @@
 ---
 uid: pavel.gazda
-name:     Mgr. Pavel Gazda      		# běžně používáné jméno
+name:     Pavel Gazda      		# běžně používáné jméno
 category:                   	# kategorie: rp, praha, vary, hradec, jmk, senat
     - opa                	
 ordopa: 2

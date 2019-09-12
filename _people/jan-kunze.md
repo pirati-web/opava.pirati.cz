@@ -3,8 +3,9 @@ uid: jan.kunze
 name:     Ing. Jan Kunze     		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priz
+- zast
 img: people/jan-kunze.jpg           # 165 x 220
-description: nezávislý kandidát ve volbách do Zastupitelstva města Opavy # kratký popis, max 160 znaků
+description: zastupitel Statutárního města Opavy # kratký popis, max 160 znaků
 
 ordpriz: 3  
 ---
@@ -16,3 +17,5 @@ V letech 2004 - 2007 působil jako projektový manažer ve firmě Azas Invest s
  Jan Kunze miluje přírodu, cestování a být pravidelně ,,on the road,,. Na svých výpravách již navštívil většinu zemí Evropy, Severní, Střední i Jižní Ameriku a chystá se poznat Asii a Afriku. Hovoří anglicky, má pasivní znalost jazyka ruského, polského a španělského.
  Je spolehlivý, zodpovědný, flexibilní a kreativní. Má velmi dobré komunikační a organizační schopnosti, umí motivovat a vést lidi. Umí se rychle orientovat a adaptovat v novém prostředí, má tah na branku. Znalost kulturních specifik ČR vycházející z jeho 20-tileté praxe v oblasti kultury v kombinaci s ekonomickým vzděláním a dobrými kognitivními a rétorickými schopnostmi mu dávají možnost profesionálního analytického vhledu do kulturně sociálních souvislostí jak v regionu, tak v celé republice. 
 Jan Kunze nesnáší pokrytectví, lži, neférovost a malost. Vítá spolupráci s talentovanými, výkonnými, a konstruktivními lidmi. Mluvkové bez reálných výsledků jej iritují. Nebojí se veřejně projevit svůj názor, ve vyjednávání umí být tvrdý, ale má od své podstaty pozitivní myšlení. Věří v komunikaci a má talent se domluvit téměř s každým, pokud druhá strana jedná korektně, konstruktivně a čistě. 
+
+Jako nezávislý kandidát byl zvolen do Zastupitelstva statutárního města Opavy. 
