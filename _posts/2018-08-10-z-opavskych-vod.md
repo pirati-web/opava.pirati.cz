@@ -7,7 +7,7 @@ author:
 image: posts/bazen.jpg
 tags:
   - bazén
-  - na slovíčko Piráte
+  - na-slovíčko-Piráte
   - Opava
 ---
 

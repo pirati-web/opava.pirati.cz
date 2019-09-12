@@ -5,18 +5,19 @@
 # technické nastavení
 #
 
-title: Piráti Opava
+title: Pirátská strana | OPAVA
 email: pavel.korizek@pirati.cz
-description: >-
-  Stránka místního sdružení Pirátů na Opavsku. 
+description: > # this means to ignore newlines until "baseurl:"
+  Web místního sdružení České pirátské strany v Opavě.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, opava, opavsko, bruntál, opavské slezsko, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, opava, opavsko, opavské slezsko, slezsko, místní združení
+url: "https://opava.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Místní sdružení Opavské Slezsko
+  name: Pirátská strana | OPAVA
   shortName: Piráti Opava
   contactUid: pavel.korizek
   email: pavel.korizek@pirati.cz
@@ -35,21 +36,38 @@ organization:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
-  - type: organizationEmail
-  - type: organizationPhone
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: organizationDataBox
-  - type: piratiRootWebsite
+contactSummaryItems:
+ - type: organizationEmail
+ - type: organizationPhone
+ - type: organizationRedmineLink
+ - type: organizationDataBox
+ - type: organizationTransparentAccount
+ - type: piratiRootWebsite
+   includeMoreLink: true
+ - type: custom
+   iconClass: fa fa-facebook
+   label: Facebook
+   body: <a href="https://www.facebook.com/piratiopava">@cpsmsk</a>
+ - type: custom
+   iconClass: fa fa-twitter
+   label: Twitter
+   body: <a href="https://twitter.com/PiratiMSK">@PiratiMSK</a>
 
+video:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+#  title: Krajský kalendář
+#  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+#  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
   title: Krajský kalendář
-  id: i7ipksvi9b852grgjic8mnhua0@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=550&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=i7ipksvi9b852grgjic8mnhua0%40group.calendar.google.com&ctz=Europe%2FPrague
 
 facebook:
   loadSDK: true
@@ -59,13 +77,10 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: PiratiMSK
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
@@ -77,14 +92,8 @@ github:
   url: https://github.com/pirati-web/opava.pirati.cz/
   branch: master
 
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+###################technické
 
 github_username:  pirati-web
 
@@ -100,7 +109,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -115,12 +123,12 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
+    permalink: /volby/:path/
+  teams:
+    output: true
+    permalink: /pripoj-se/:title/
   candidatelists:
     output: false
 
@@ -130,20 +138,27 @@ defaults:   # defaults values for collection scope
       path: "_people"
     values:
       layout: "person"
-      rbar:
-        - foto
-        - personContact
-        - people
+      rbar: foto 
+          #- foto
+          #- personContact
+          #- people
   -
     scope:
       path: "_program"
     values:
       layout: "program-post"
-      rbar:
-         - garant
-         - program
+      rbar: "volby"
+      #- garant
+      #   - program
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
 
-emptyArray: []
+fb: https://www.facebook.com/piratiopava
+tw: PiratiMSK
 
 assets:
   source_maps: true
@@ -161,10 +176,10 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-6.0.2/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
-    - assets/files
+    - assets/img/posts
     - _sass

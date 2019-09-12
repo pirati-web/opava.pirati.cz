@@ -2,11 +2,10 @@
 uid: jan.sterba
 name:     Jan Štěrba      		# běžně používáné jméno
 category:       # kategorie: rp, praha, vary, hradec, jmk, senat
-    - opa
-    - - kontaktni_osoba
+    - zast
 ordopa: 1
 img: people/jan-sterba.jpg           # 165 x 220
-description: člen Pirátů místního sdružení Opavské Slezsko
+description: radní města Opavy a místopředseda místního sdružení Opavské Slezsko
 mail:
 - jan.sterba@pirati.cz
 mob: +420 602 533 993

@@ -14,31 +14,8 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Naši lidé
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-  - link: /senatni-volby/
-    name: Senátní volby
-    match: senatni-volby
-    submenu:
-      - link: /senatni-volby/
-        name: Kandidát
-        match: senatni-volby
-      - link: /senatni-volby/senatni-obvod/
-        name: Senátní obvod
-        match: senatni-obvod
-      - link: /senatni-volby/dopisy/
-        name: Ohlasy
-        match: dopisy
-      - link: /senatni-volby/vite-ze/
-        name: Víte ,že ...
-        match: vite-ze
-      - link: /senatni-volby/ke-stazeni/
-        name: Ke stažení
-        match: ke-stazeni
-
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -54,8 +31,6 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4

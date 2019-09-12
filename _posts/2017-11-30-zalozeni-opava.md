@@ -8,7 +8,7 @@ authorId: pavel.korizek
 image: posts/zalozeni_opava.jpg
 tags:
   - Piráti
-  - místní sdružení
+  - místní-sdružení
   - Opava
   - Bruntál
 ---
