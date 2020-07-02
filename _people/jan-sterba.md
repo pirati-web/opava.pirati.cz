@@ -11,13 +11,13 @@ mail:
 mob: +420 602 533 993
 ordpak: 3
 ---
-Jan Štěrba se narodil v roce 1962 v Opavě v rodině lékaře jako třetí dítě a druhé z dvojčat.
-Vystudoval střední zemědělskotechnickou školu v Opavě.Po absolvování základní vojenské služby začal pracovat v dopravě, nejprve jako závozník, poté jako řidič a nakonec jako dispečer. Po roce 1989 založil se svými kolegy spediční firmu a dvacet let podnikal v mezinárodní automobilové dopravě a spedici. Od roku 2010 až doposud pracuje jako dispečer v Městském dopravním podniku Opava.
 
-Jan Štěrba má dva již dospělé syny, takže se ve svém volném čase může více věnovat svým „životním láskám“- vysokohorské turistice, jízdě na kole a fotografování. Pravidelně se zúčastňuje a pořizuje fotodokumentaci tradiční recesistické akce „TÝDEN DIVŮ“ jako člen týmu PIVOŇKY.
+Pochází z Opavy, narodil se v roce 1962 do rodiny lékaře. Vystudoval střední zemědělsko - technickou školu v Opavě. Pracoval v místním ČSAD, nejprve jako závozník, poté jako řidič a nakonec jako dispečer. Po sametové revoluci v roce 1989 založil se svými kolegy spediční firmu, 20 let byl jejím jednatelem a podnikal v mezinárodní automobilové dopravě. Od roku 2010 pracoval v Městském dopravním podniku v Opavě na pozici dispečera - vedoucí autobusové sekce. V roce 2018 se úspěšně zúčastnil výběrového řízení na post dopravně-technického náměstka ředitele společnosti, kde působí dodnes.
 
- Politice se aktivně věnuje od roku 2008. Sestavoval kandidátku pro volby do Poslanecké sněmovny Parlamentu ČR a pro komunální volby v roce 2010 za stranu pana Petra Havlíka, OBČANÉ.CZ. V roce 2014 se aktivně podílel na vzniku a kandidatuře volebního subjektu OPAVANÉ – NEZÁVISLÍ, OBČANÉ, PIRÁTI. Za tento volební subjekt byl následně nominován a v současnosti aktivně působí jako místopředseda Dopravní komise Rady statutárního města Opavy a člen Majetkové komise. I když se zatím nestal členem zastupitelstva, pravidelně se účastní každého zasedání ZMO.
- 
-Jan Štěrba se i v tomto předvolebním období aktivně zasazuje o sestavení kandidátky zaručující nominaci kvalitních odborníků do Zastupitelstva města Opavy, za kterými stojí prokazatelná odborná praxe a životní zkušenosti. Staví na aktuální a pokračující spolupráci se členy OPAVANů, jako člen místního sdružení Pirátů chce a byl by rád, kdyby se v Opavě podařilo uspět s kandidátkou, která bude složena nejen z členů Pirátské strany a jejich příznivců, ale také z aktivních lidí- nestraníků, kterým není dění v Opavě lhostejné a chtějí poctivě pracovat na zlepšení „štábní kultury“ ve městě. 
+Politice se aktivně věnuje od roku 2008. Ve volebním období 2014 - 2018 byl členem majetkové komise a místopředsedou dopravní komise Rady města Opavy. Od roku 2018 je opavským radním za Piráty, kteří v zastupitelstvu města mají celkem 5 mandátů. Dlouhodobě se věnuje problematice absence  autobusového nádraží v Opavě, potažmo chybějícího zázemí jak pro řidiče, tak pro cestující. Své dlouholeté zkušenosti v oblasti dopravy předává dalším členům a kolegům. U Pirátů prosazuje zásadu tří „O“ - tedy odpovědnost, odvaha a otevřenost.
 
-V komunální politice chce prosazovat zásadu tří „O“ tedy odpovědnost, odvahu a otevřenost. Díky informacím z jednání opavského zastupitelstva a z jeho práce v komisích, vnímá, že je zapotřebí používat zdravý selský rozum, promýšlet realizace projektů pro rozvoj města tak, aby dávaly smysl, sloužily občanům a byly účelné, ne účelové. 
+Má dva syny a jelikož jsou již dospělí, může se věnovat více i svým velkým láskám, což je vysokohorská turistika, focení a jízda na kole. V současné době je členem týmu KET pro dopravu a podílí se na kampani pro Krajské volby 2020 v Opavě.
+
+- email: jan.sterba@pirati.cz
+- mobil: +420 602 533 993
+- Facebook: [jan.sterba1](https://www.facebook.com/jan.sterba1)
