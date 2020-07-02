@@ -18,6 +18,6 @@ Politice se aktivně věnuje od roku 2008. Ve volebním období 2014 - 2018 byl 
 
 Má dva syny a jelikož jsou již dospělí, může se věnovat více i svým velkým láskám, což je vysokohorská turistika, focení a jízda na kole. V současné době je členem týmu KET pro dopravu a podílí se na kampani pro Krajské volby 2020 v Opavě.
 
-- email: jan.sterba@pirati.cz
+- email: [jan.sterba@pirati.cz](mailto:jan.sterba@pirati.cz)
 - mobil: +420 602 533 993
 - Facebook: [jan.sterba1](https://www.facebook.com/jan.sterba1)
