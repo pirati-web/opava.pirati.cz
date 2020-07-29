@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'OKO, do duše Opavy okno? '
-date: 2020-07-27T08:00:00.000Z
+date: 2020-07-29T08:00:00.000Z
 author: Jana Ožanová
 image: posts/oko-do-duse-okno.jpg
 tags:
