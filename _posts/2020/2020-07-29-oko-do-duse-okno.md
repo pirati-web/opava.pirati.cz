@@ -1,17 +1,20 @@
 ---
 layout: post
 category: CLANKY
-title: 'OKO, do duše Opavy okno? '
+title: 'OKO, do duše Opavy okno?'
 date: 2020-07-29T08:00:00.000Z
 author: Jana Ožanová
 image: posts/oko-do-duse-okno.jpg
 tags:
+  - Opava
+  - Kultura
+  - Kauza
   - OKO
-  - Jan-Kunze
   - Hana-Brňáková
+  - Jan-Kunze
 ---
 
-Opava, 29. července. 2020: **Opavská kulturní organizace (OKO) zažívá parné léto, a to nejen díky počasí. Neklidná situace uvnitř městské organizace každým dnem a každým dalším článkem v místním tisku graduje víc a víc. Okurková sezóna je zachráněna, Region Opavsko má nový letní seriál na pokračování. Hlavní padouch Jan Kunze je vykreslován jako Dr. Jekyll a Mr. Hyde a poté, co se začal bránit a postavila se za něj místní členská základna, tady máme další zápornou hrdinku – náměstkyni Hanu Brňákovou, do jejíž gesce kulturní organizace spadá. Vyřeší skandální titulky situaci uvnitř městské organizace? Je snad celá kauza záminkou pro vyvolání sporů v koalici?**
+Opava, 29. července 2020 - **Opavská kulturní organizace (OKO) zažívá parné léto, a to nejen díky počasí. Neklidná situace uvnitř městské organizace každým dnem a každým dalším článkem v místním tisku graduje víc a víc. Okurková sezóna je zachráněna, Region Opavsko má nový letní seriál na pokračování. Hlavní padouch Jan Kunze je vykreslován jako Dr. Jekyll a Mr. Hyde a poté, co se začal bránit a postavila se za něj místní členská základna, tady máme další zápornou hrdinku – náměstkyni Hanu Brňákovou, do jejíž gesce kulturní organizace spadá. Vyřeší skandální titulky situaci uvnitř městské organizace? Je snad celá kauza záminkou pro vyvolání sporů v koalici?**
 
 <hr />
 
@@ -27,11 +30,13 @@ Velká část rozhovoru se věnuje nedávné schůzce za přítomnosti primátor
 
 Celá situace kolem městské organizace nápadně připomíná příběh na ZŠ Otická, který vyústil v důkladnou kontrolu a následné odvolání tehdejšího ředitele. Přístup vedení města, resp. primátora, k řešení tohoto problému, je ale diametrálně odlišný.
 
->„Já jsem teď označována za udavačku, například v případě Otické ale zřizovatel jednal poměrně vehementně a důrazně, i když se tenkrát také zaměstnanci postavili za ředitele. Tehdy jsem do toho jako věcně příslušná náměstkyně neměla co mluvit, abych dle slov primátora „pořád v koalici něco nebořila“. K šetření povolal „jeho“ oddělení kontroly a výsledkem byl vyhazov ředitele školské příspěvkové organizace. Nyní tady máme jinou příspěvkovku, opět v mé gesci. Respektuji primátora jako hlavu města, respektuji rovněž kompetence ostatních náměstků a nedovolila bych si do nich zasahovat. Odbor kontroly nemá ve své kompetenci řešení pracovně právních vztahů, proto jsem sepsala věcný podnět na Státní úřad inspekce práce. Prošetřit poměry v organizaci nezávislým státním orgánem vidím jako jediné správné řešení, navíc jsem tak chtěla zabránit spekulacím, že nejsem v tomto sporu nestranná,“ 
+> „Já jsem teď označována za udavačku, například v případě Otické ale zřizovatel jednal poměrně vehementně a důrazně, i když se tenkrát také zaměstnanci postavili za ředitele. Tehdy jsem do toho jako věcně příslušná náměstkyně neměla co mluvit, abych dle slov primátora „pořád v koalici něco nebořila“. K šetření povolal „jeho“ oddělení kontroly a výsledkem byl vyhazov ředitele školské příspěvkové organizace. Nyní tady máme jinou příspěvkovku, opět v mé gesci. Respektuji primátora jako hlavu města, respektuji rovněž kompetence ostatních náměstků a nedovolila bych si do nich zasahovat. Odbor kontroly nemá ve své kompetenci řešení pracovně právních vztahů, proto jsem sepsala věcný podnět na Státní úřad inspekce práce. Prošetřit poměry v organizaci nezávislým státním orgánem vidím jako jediné správné řešení, navíc jsem tak chtěla zabránit spekulacím, že nejsem v tomto sporu nestranná,“ 
 
 uvedla v reakci na článek Hana Brňáková. 
 
 ---
 
-Úvodní obrázek zdroj: Jan Štěrba \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: [Jan Štěrba]({{'jan-sterba' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+
 - - - 
+
