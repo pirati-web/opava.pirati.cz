@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - zast
 img: people/pavel-korizek.jpg   # 165 x 220
-description: radní města Opavy a předseda krajského sdružení Moravskoslezského kraje       	# kratký popis, max 160 znaků
+description: radní města Opavy a místopředseda místního sdružení Opavské Slezsko       	# kratký popis, max 160 znaků
 mail:
 - pavel.korizek@pirati.cz
 mob: +420 777 237 635		  
