@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti a Opavané vypovídají koaliční smlouvu svým partnerům: Koalice má spolupracovat, ne si házet klacky pod nohy'
-date: 2020-08-28T08:00:00.000Z
+date: 2020-08-28T02:00:00.000Z
 author: Jana Ožanová
 image: posts/opava-radnice-zasedacka.jpg
 tags:
