@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti a Opavané vypovídají koaliční smlouvu svým partnerům: Koalice má spolupracovat, ne si házet klacky pod nohy'
-date: 2020-08-28T02:00:00.000Z
+date: 2020-08-28T05:00:00.000Z
 author: Jana Ožanová
 image: posts/opava-radnice-zasedacka.jpg
 tags:
@@ -21,7 +21,7 @@ K rozporům v koalici docházelo v průběhu posledního půl roku čím dál t�
 
 vysvětluje motivy pro výpověď koaliční smlouvy náměstkyně Hana Brňáková.
 
-Hlavní problémy a třecí plochy ve fungování koalice byly projednány na koaliční radě dne 25. 8. 2020 svolané Piráty a Opavany a vypdalo to, že došlo k jistému konsensu a uklidnění situace. Bohužel hned druhý den se vše vrátilo do původních kolejí, kdy byly opět naše návrhy a požadavky válcovány primátorem z pozice síly. Takovýto způsob koaliční spolupráce považují opavští Piráti za nepřijatelný a přistupují proto k vypovězení koaliční smlouvy.
+Hlavní problémy a třecí plochy ve fungování koalice byly projednány na koaliční radě dne 25. 8. 2020 svolané Piráty a Opavany a vypadalo to, že došlo k jistému konsensu a uklidnění situace. Bohužel hned druhý den se vše vrátilo do původních kolejí, kdy byly opět naše návrhy a požadavky válcovány primátorem z pozice síly. Takovýto způsob koaliční spolupráce považují opavští Piráti za nepřijatelný a přistupují proto k vypovězení koaliční smlouvy.
 
 Ve výpovědi dále deklarují, že se nebrání možnosti další koaliční spolupráce, ale na jiném férovějším základě.
 
