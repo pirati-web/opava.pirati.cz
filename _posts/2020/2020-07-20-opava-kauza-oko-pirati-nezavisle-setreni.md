@@ -32,6 +32,6 @@ Je potřeba zmínit také fakt, že i když se oběma stížnostmi (stejně jako
 
 ---
 
-Úvodní obrázek zdroj: [Jan Štěrba]({{'jan-sterba' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Úvodní obrázek zdroj: /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
