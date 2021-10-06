@@ -40,6 +40,6 @@ Všichni z opavské buňky se také zapojili do kampaně _#ZachranZivnost_, kter
 
 ---
 
-Obrázky zdroj: [Hana Brňáková]({{'hana-brnakova' | prepend: '/lide/' | relative_url}}), [Jan Štěrba]({{'jan-sterba' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
+Obrázky zdroj: [Hana Brňáková]({{'hana-brnakova' | prepend: '/lide/' | relative_url}}) /Piráti/ \[[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs)\].
 
 - - -
