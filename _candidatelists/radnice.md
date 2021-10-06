@@ -15,7 +15,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: Programátor
     description: 
     party: Piráti
-  - uid: jan.sterba
+  - name: Jan Štěrba
     age: 55
     profession: Dispečer
     party: Piráti
@@ -47,7 +47,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 46
     profession: Ředitelka Mateřské školky Hradec nad Moravicí
     party: bez politické příslušnosti
-  - uid: petr.pavlicek
+  - name: Petr Pavlíček
     age: 65
     profession: Zástupce ředitele Mendelova gymnazia
     party: bez politické příslušnosti
