@@ -22,9 +22,12 @@ organization:
   contactUid: pavel.korizek
   email: pavel.korizek@pirati.cz
   phone: +420 777 237 635
-  address: 
+  address: |
+    Ostravské pirátské centrum (OPiCe)
+    Denisova 639/2
+    702 00 Ostrava
   residenceImg:
-  mapLink: 
+  mapLink: https://goo.gl/maps/FK7JAGvaddx
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
