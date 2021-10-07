@@ -15,7 +15,7 @@ contentSize: default
 
 <h2 class="t-h4-alt"> Zajímá vás co Piráti dělají? </h2>
 
-Ozvěte se našim kontaktním osobám, koordinátorovi nebo přijďte na setkání, které pořádáme každý druhý čtvrtek v měsíci od 18 hodin v Slezském Pirátském Centru, Krnovská 12/9, Opava.
+Ozvěte se našim kontaktním osobám, koordinátorovi nebo přijďte na setkání, které pořádáme každý druhý čtvrtek v měsíci od 18 hodin (místo bude upřesněno).
 
 <h2 class="t-h4-alt"> Chcete nás podpořit a nevíte jak?</h2>
 
