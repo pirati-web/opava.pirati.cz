@@ -3,6 +3,7 @@ uid: gabriela.lackova
 name:     Bc. Gabriela Lacková     		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priz
+- opa  
 img: people/gabriela-lackova.jpg           # 165 x 220
 description: nezávislý kandidát ve volbách do Zastupitelstva města Opavy # kratký popis, max 160 znaků
 
