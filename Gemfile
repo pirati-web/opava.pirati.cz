@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.8.3"
 
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "~>7.5.0"
+gem "jekyll-theme-pirati", "~>7.7.1"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -21,24 +21,25 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11", group: :jekyll_plugins
-end
-
-group :development, :test do
-  gem "html-proofer"
+  gem "jekyll-assets"
+  gem 'jekyll-environment-variables'
 end
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
+gem 'jekyll-redirect-from'
 gem "json" # For gem building
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
-gem "autoprefixer-rails"
+#gem "autoprefixer-rails"
 gem "image_optim"
 gem "image_optim_bin" # Optional
 gem "image_optim_pack"
 # Make sure watch mode works A-OK on Windows too
 gem "wdm", "~> 0.1.1" if Gem.win_platform?
+
+group :development, :test do
+  gem "html-proofer"
+end
