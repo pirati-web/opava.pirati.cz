@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pks
 - zast
-- kontaktni_osoba- 
+- kontaktni_osoba
 img: people/pavel-korizek.jpg   # 165 x 220
 description: krajský zastupitel, zastupitel města Opavy a místopředseda místního sdružení Opavské Slezsko       	# kratký popis, max 160 znaků
 mail:

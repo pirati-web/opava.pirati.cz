@@ -23,8 +23,7 @@ Staňte se dobrovolníkem – kontaktujte [krajského koordinátora dobrovolník
 
 Staňte se registrovaným příznivcem - formulář s návodem najdete [tady](https://nalodeni.pirati.cz/)
 
-Finanční dary můžete posílat [zde](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu místnímu sdružení použijte specifický symbol 110405 pro převod (jinak do poznámky text "dar MS Opavské Slezsko").
+Finanční dary můžete posílat [zde](https://dary.pirati.cz/podpor-kraj/moravskoslezsky/adresne-dary/).
 
 
 

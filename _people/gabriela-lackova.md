@@ -5,7 +5,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priz
 - opa  
 img: people/gabriela-lackova.jpg           # 165 x 220
-description: nezávislý kandidát ve volbách do Zastupitelstva města Opavy # kratký popis, max 160 znaků
+description: členka Komise pro výchovu, vzdělávání a prevenci kriminality v Opavě # kratký popis, max 160 znaků
 
 ordpriz: 6
 ---

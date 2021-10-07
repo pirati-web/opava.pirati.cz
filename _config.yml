@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Pirátská strana | OPAVA
+title: PIRÁTI OPAVA
 email: pavel.korizek@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web místního sdružení České pirátské strany v Opavě.
@@ -17,7 +17,7 @@ administrator:
   email: pavel.korizek@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Pirátská strana | OPAVA
+  name: PIRÁTI OPAVA
   shortName: Piráti Opava
   contactUid: pavel.korizek
   email: pavel.korizek@pirati.cz
