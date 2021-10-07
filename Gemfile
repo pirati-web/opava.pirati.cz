@@ -18,7 +18,6 @@ gem "jekyll-theme-pirati", "~>7.7.1"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate"
-  gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
   # gem "github-pages"
   gem "jekyll-assets"
