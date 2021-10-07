@@ -19,7 +19,7 @@ Ozvěte se našim kontaktním osobám, koordinátorovi nebo přijďte na setkán
 
 <h2 class="t-h4-alt"> Chcete nás podpořit a nevíte jak?</h2>
 
-Staňte se dobrovolníkem – kontaktujte [krajského koordinátora dobrovolníků](https://moravskoslezsky.pirati.cz/lide/jakub-dedek/)
+Staňte se dobrovolníkem – kontaktujte [krajského koordinátora dobrovolníků](https://moravskoslezsky.pirati.cz/lide/hana-pavlickova/)
 
 Staňte se registrovaným příznivcem - formulář s návodem najdete [tady](https://nalodeni.pirati.cz/)
 
