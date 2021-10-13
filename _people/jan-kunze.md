@@ -6,6 +6,8 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zast
 img: people/jan-kunze.jpg           # 165 x 220
 description: krajský zastupitel, zastupitel města Opavy # kratký popis, max 160 znaků
+mail:
+- jan.kunze@seznam.cz
 
 ordpriz: 3  
 ---
@@ -18,4 +20,4 @@ V letech 2004 - 2007 působil jako projektový manažer ve firmě Azas Invest s
  Je spolehlivý, zodpovědný, flexibilní a kreativní. Má velmi dobré komunikační a organizační schopnosti, umí motivovat a vést lidi. Umí se rychle orientovat a adaptovat v novém prostředí, má tah na branku. Znalost kulturních specifik ČR vycházející z jeho 20-tileté praxe v oblasti kultury v kombinaci s ekonomickým vzděláním a dobrými kognitivními a rétorickými schopnostmi mu dávají možnost profesionálního analytického vhledu do kulturně sociálních souvislostí jak v regionu, tak v celé republice. 
 Jan Kunze nesnáší pokrytectví, lži, neférovost a malost. Vítá spolupráci s talentovanými, výkonnými, a konstruktivními lidmi. Mluvkové bez reálných výsledků jej iritují. Nebojí se veřejně projevit svůj názor, ve vyjednávání umí být tvrdý, ale má od své podstaty pozitivní myšlení. Věří v komunikaci a má talent se domluvit téměř s každým, pokud druhá strana jedná korektně, konstruktivně a čistě. 
 
-Jako nezávislý kandidát byl zvolen do Zastupitelstva statutárního města Opavy. 
+Jako nezávislý kandidát byl zvolen do zastupitelstva Moravskoslezského kraje a zastupitelstva statutárního města Opavy. 
