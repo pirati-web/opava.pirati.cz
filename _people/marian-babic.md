@@ -5,7 +5,7 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - priz
 - opa 
 img: people/marian-babic.jpg           # 165 x 220
-description: předseda místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
+description: expředseda místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
 
 ordpriz: 10
 ---
