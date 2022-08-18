@@ -2,8 +2,6 @@
 uid: marian.babic
 name:     Mgr. Marian Babic     		# běžně používáné jméno
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- priz
-- opa 
 img: people/marian-babic.jpg           # 165 x 220
 description: expředseda místního sdružení Opavské Slezsko # kratký popis, max 160 znaků
 
