@@ -1,8 +1,7 @@
 ---
 uid: pavel.gazda
 name:     Pavel Gazda      		# běžně používáné jméno
-category:                   	# kategorie: rp, praha, vary, hradec, jmk, senat
-    - opa                	
+category:                   	# kategorie: rp, praha, vary, hradec, jmk, senat             	
 ordopa: 2
 img: people/pavel-gazda.jpg           # 165 x 220
 description: zastupitel městské části Opava-Malé Hoštice
